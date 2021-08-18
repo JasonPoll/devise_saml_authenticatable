@@ -70,6 +70,7 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     bcrypt (3.1.16)
+    brakeman (5.1.1)
     builder (3.2.4)
     capybara (3.35.3)
       addressable
@@ -198,6 +199,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  brakeman
   capybara
   devise_saml_authenticatable!
   poltergeist
