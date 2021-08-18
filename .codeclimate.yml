@@ -10,7 +10,7 @@ plugins:
         ruby:
           mass_threshold: 20
   rubocop:
-    enabled: true
+    enabled: false
     channel: rubocop-0-83
 
   fixme:
